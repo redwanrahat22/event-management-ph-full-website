@@ -4,7 +4,8 @@ const AboutUs = () => {
     const [aboutdata,setabout] = useState([])
 
     useEffect(()=>{
-        fetch('../../../public/aboutus.json')
+       // fetch('../../../publica/aboutus.json')
+       fetch('aboutus.json')
         .then(res => res.json())
         .then(data => setabout(data))
 

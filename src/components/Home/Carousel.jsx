@@ -6,7 +6,7 @@ const Carousel = () => {
 
     const [carouseldata,setcardata] = useState([])
     useEffect(()=>{
-        fetch('../../../public/carousel-data.json')
+        fetch('carousel-data.json')
         .then(res => res.json())
         .then(data =>setcardata(data))
     },[])

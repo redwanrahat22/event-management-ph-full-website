@@ -7,7 +7,7 @@ const Events = () => {
         const [service,setservice] = useState([])
 
         useEffect(()=>{
-            fetch('../../../public/services.json')
+            fetch('services.json')
             .then(res =>res.json())
             .then(data => setservice(data))
 

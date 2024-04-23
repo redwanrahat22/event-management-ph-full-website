@@ -1,25 +1,23 @@
 import { useEffect, useState } from "react";
-import {  useParams } from "react-router-dom";
+import {  useLoaderData, useParams } from "react-router-dom";
 import SaveLocal from "./LocalStorage";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
 const ShowDetails = () => {
     const [dataload,setdataload] = useState([])
-    
-
+  
     const id = useParams()
+ 
+    const loadedData = useLoaderData()
     
-    useEffect(()=>{
-
-        fetch('../../../public/services.json')
-        .then(res => res.json())
-        .then(data => setdataload (data))
-
-    },[])
+    console.log(dataload)
     
 
- const select =  dataload.find(data => (data.id == id.id) )
+     
+
+ const select =  loadedData.find(data => (data.id == id.id) )
+   console.log(select)
    
    
   

@@ -15,7 +15,7 @@ const Root = () => {
         });
       }, []);
     return (
-        <div>
+        <div className="bg-gray-200">
             <div className=" bg-common m-auto">
             <Navbar></Navbar>
             </div>

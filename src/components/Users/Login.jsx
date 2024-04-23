@@ -56,6 +56,7 @@ const Login = () => {
    localStorage.setItem('userinfo',JSON.stringify(userData))
     showtoast()
     setInterval(() => {
+      
       nav('/')
     }, 2000);
     
