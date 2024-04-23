@@ -13,9 +13,14 @@ import YourBookings from "../Nav/PrivateLinks/YourBookings";
 
 const router = createBrowserRouter([
     {
+
+
         path:'/',
+
         element: <Root></Root>,
+
         errorElement:<Error></Error>,
+        
         children: [
             {
                 path: '/',
