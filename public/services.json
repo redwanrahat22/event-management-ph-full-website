@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "title": "Logistics Management",
+    "image": "https://i.ibb.co/HPZD2pG/1logistics.jpg",
+    "price": "400",
+    "short_description": "Experience seamless event execution with our streamlined logistics solutions. We ensure flawless transportation and venue setup.",
+    "long_description": "Our efficient logistics management service ensures flawless event transportation, venue setup, and technical requirements. We meticulously plan and coordinate every detail, allowing you to focus on other crucial aspects of your event. From coordinating vendor deliveries to managing transportation logistics, we have the expertise and resources to ensure smooth operations from start to finish. With our attention to detail and dedication to excellence, you can trust us to handle all logistical aspects of your event with precision and efficiency."
+  },
+
+  {
+    "id": "2",
+    "title": "Professional Vendor Coordination",
+    "image": "https://i.ibb.co/kgV9snd/co-ordination.jpg",
+    "price": "450",
+    "short_description": "Unlock a flawless event experience through expert vendor management. We handle contract negotiation and delivery coordination.",
+    "long_description": "With our professional vendor coordination service, we handle every aspect of vendor management with expertise and efficiency. From contract negotiation to delivery coordination, we ensure seamless collaboration throughout the event planning process. We maintain strong relationships with a network of trusted vendors to provide our clients with the highest quality services at competitive rates. Let us take the stress out of managing multiple vendors and ensure smooth collaboration for your next event."
+  },
+  {
+    "id": "3",
+    "title": "Comprehensive Event Planning",
+    "image": "https://i.ibb.co/VY6V0cV/3event-planning.jpg",
+    "price": "500",
+    "short_description": "Realize your vision with tailored event planning solutions. We ensure every detail exceeds your expectations.",
+    "long_description": "Our comprehensive event planning service covers every aspect of event organization, from initial concept development to post-event evaluation. We work closely with our clients to understand their objectives, preferences, and budgetary constraints, and then create customized event plans that exceed their expectations. With meticulous attention to detail and creative flair, we ensure that every element of the event is carefully curated to deliver a memorable and impactful experience for attendees. From venue selection to thematic design, we bring your vision to life with precision and creativity."
+  },
+  {
+    "id": "4",
+    "title": "Communication Management",
+    "image": "https://i.ibb.co/SQ4XDvy/4communication.jpg",
+    "price": "300",
+    "short_description": "Stay informed with transparent communication throughout. We ensure your vision is understood and realized.",
+    "long_description": "At the heart of our service is continuous client communication, ensuring that our clients are involved and informed every step of the way. From the initial consultation to final event execution, we maintain open lines of communication to ensure that our clients' vision and expectations are fully understood and realized. Our dedicated team is responsive to client inquiries, feedback, and requests, ensuring a collaborative and seamless planning experience. We prioritize transparency and clarity in all communication to build trust and foster strong partnerships with our clients."
+  },
+  {
+    "id": "5",
+    "title": "On-site Coordination",
+    "image": "https://i.ibb.co/n1StryV/5co-ordination-2.jpg",
+    "price": "350",
+    "short_description": "Relax and enjoy your event with efficient on-site coordination. We handle every detail from setup to teardown.",
+    "long_description": "Our robust on-site coordination service ensures that every detail of the event is executed flawlessly, from setup to teardown. Our experienced event coordinators oversee all on-site operations, ensuring that vendors, staff, and attendees are coordinated effectively. With meticulous planning and proactive problem-solving, we anticipate and address any issues that may arise, allowing our clients to relax and enjoy their event with confidence. From managing the flow of activities to handling unexpected challenges, we ensure smooth operations and a memorable experience for all."
+  },
+  {
+    "id": "6",
+    "title": "Post-event Evaluation and Analysis",
+    "image": "https://i.ibb.co/7K7FbcY/6analysis.jpg",
+    "price": "400",
+    "short_description": "Optimize future strategies with thorough evaluation and analysis. We provide valuable insights for future planning.",
+    "long_description": "Our post-event evaluation and analysis service provides valuable insights and feedback to inform future event planning and strategy. We conduct comprehensive evaluations of event success metrics, gather feedback from attendees and stakeholders, and analyze key performance indicators to identify strengths and areas for improvement. By leveraging data-driven insights, we help our clients optimize their event strategies and achieve even greater success in the future. With our thorough evaluation process, you can make informed decisions and continuously improve the impact of your events."
+  }
+]
